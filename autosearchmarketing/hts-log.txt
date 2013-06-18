@@ -1,0 +1,12 @@
+HTTrack3.46+htsswf+htsjava launched on Mon, 17 Jun 2013 14:52:38 at http://www.pixel-industry.com/html/metropolis/metropolis-default/index.html +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" http://www.pixel-industry.com/html/metropolis/metropolis-default/index.html -O1 D:\Server\Templates\autosearchmarketing\autosearchmarketing +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:52:40	Warning: 	File not parsed, looks like binary: www.pixel-industry.com/robots.txt
+
+HTTrack Website Copier/3.46 mirror complete in 1 minutes 38 seconds : 158 links scanned, 157 files written (3561759 bytes overall) [2378659 bytes received at 24272 bytes/sec], 1484542 bytes transfered using HTTP compression in 48 files, ratio 17%, 4.4 requests per connection
+(No errors, 1 warnings, 0 messages)
